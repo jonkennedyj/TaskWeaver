@@ -1,0 +1,2 @@
+cd playground/UI/
+chainlit run app.py
