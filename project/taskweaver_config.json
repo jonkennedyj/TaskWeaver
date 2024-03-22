@@ -1,5 +1,8 @@
 {
-  "llm.api_base": "https://api.openai.com/v1",
-  "llm.api_key": "",
-  "llm.model": "gpt-4-1106-preview"
+  "llm.api_base":"https://demo-multi.openai.azure.com/",
+  "llm.api_key":"2fe54ac8146a4a94a914c1b47bbbb327",
+  "llm.api_type":"azure",
+  "llm.auth_mode":"api-key",
+  "llm.model":"gpt-4-1106-preview",
+  "llm.response_format": "json_object"
 }
